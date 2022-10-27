@@ -1,1 +1,1 @@
-# coding-project-template
+# Quebec Hotel Application
